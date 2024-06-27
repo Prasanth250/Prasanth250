@@ -1,3 +1,4 @@
+//write a java program for the given number is even or odd.
 import java.util.Scanner;
 class EvenOdd {
     public static void main(String[] args) {
