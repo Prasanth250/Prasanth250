@@ -1,4 +1,4 @@
-
+//write a c program to accept two numbers and find their sum and even or odd.
 #include <stdio.h>
 int main() {
    int a,b,sum;
