@@ -1,4 +1,4 @@
-
+//print the 10 rows right angled right justified numbers 
 import java.io.*;
 class rsn {
     public static void main(String[] args) {
