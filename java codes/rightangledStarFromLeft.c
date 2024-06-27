@@ -1,4 +1,4 @@
-
+//print the 10 rows right angled left justified star *. 
 import java.io.*;
 class rsn {
     public static void main(String[] args) {
