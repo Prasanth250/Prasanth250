@@ -13,8 +13,7 @@ public class Swapping
        System.out.println("Before Swapping a = " + a + " and b = " + b +" and c= "+c);
        t=a;
        a=b;
-       b=c;
-       c=t;
+       b=t;
        System.out.println("After Swapping a = " + a + " and b = " + b+" and c= "+c);
     }
 }
