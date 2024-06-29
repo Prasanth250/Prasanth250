@@ -1,0 +1,23 @@
+//print the 10 rows triangle of inc-dec numbers.
+public class program1
+{
+public static void main (String[] args)
+{
+for(int r=1;r<=10;r++)
+{
+for(int s=1;s<=10-r;s++)
+{
+System.out.print(" ");
+}
+for(int i=1;i<=r;i++)
+{
+System.out.print(i);
+}
+for(int j=r-1;j>=1;j--)
+{
+System.out.print(j);
+}
+System.out.println();
+}
+}
+}
